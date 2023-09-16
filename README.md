@@ -1,4 +1,5 @@
 <h3 align="center">Hey! 👋 I'm Caiden Kiani</h3>
+---
 <!-- 
 <p align="center">
   <a href="https://www.linkedin.com/in/tybens/">LinkedIn</a> •
@@ -6,11 +7,11 @@
   <a href="https://tylerbenson.me/">Website</a>
 </p>
 -->
-
+<p align="center">
 Education: Princeton University 2021-2025 (expected)
 Major: CS
 Minor: Statistics and Machine Learning
-
+</p>
 Experience:
 TicketWallet - Machine Learning Engineer Intern
 FoodTec Solutions - Backend Software Developer Intern
