@@ -14,16 +14,18 @@
 
 
 <p align="center">
-Education: Princeton University 2021-2025 (expected)
-Major: CS
-Minor: Statistics and Machine Learning
+
+### Education: 
+ - Princeton University 2021-2025 (expected)
+    Major: CS
+    Minor: Statistics and Machine Learning
 </p>
 
-###Experience:
+### Experience:
 TicketWallet - Machine Learning Engineer Intern
 FoodTec Solutions - Backend Software Developer Intern
 
-###Interests:
+### Interests:
 I enjoy staying up to date with the latest in the AI world. Beyond CS, I love playing soccer, guitar, and longboarding. 
 
 
