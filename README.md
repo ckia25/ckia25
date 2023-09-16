@@ -22,8 +22,8 @@
 </p>
 
 ### Experience:
-TicketWallet - Machine Learning Engineer Intern
-FoodTec Solutions - Backend Software Developer Intern
+- TicketWallet | Machine Learning Engineer Intern
+- FoodTec Solutions | Backend Software Developer Intern
 
 ### Interests:
 I enjoy staying up to date with the latest in the AI world. Beyond CS, I love playing soccer, guitar, and longboarding. 
